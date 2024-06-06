@@ -1,0 +1,17 @@
+/* PlayStore.css */
+.play-store {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.game {
+  margin: 10px;
+  text-align: center;
+}
+
+.game img {
+  width: 150px;
+  height: 150px;
+  border-radius: 8px;
+}

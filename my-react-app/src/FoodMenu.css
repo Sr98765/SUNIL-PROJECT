@@ -1,0 +1,11 @@
+/* FoodMenu.css */
+.food-menu {
+  font-family: Arial, sans-serif;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.selected-ingredient {
+  margin-top: 10px;
+  font-size: 18px;
+}
